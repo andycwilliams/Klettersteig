@@ -34,7 +34,7 @@
     "firebase": "^8.10.0",
     "firebase-admin": "^9.11.1",
     "mysql2": "^2.3.0",
-    "sequelize": "^6.6.5"
+    "sequelize": "^6.29.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0"
